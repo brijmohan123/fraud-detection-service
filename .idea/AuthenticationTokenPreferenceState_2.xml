@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AuthenticationTokenPreferenceState">
+    <option name="authTokenMap">
+      <map>
+        <entry key="fraud-detection-service" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYXQiLCJqdGkiOiJOdml3Q1c1SEdjIiwiVXNlckluZm8iOnsiaWQiOiIzNjE5OWVmZS04ZWNlLTQ0ODktYWRlNy1kNDc0ZGI3MGM1OTEiLCJlbWFpbCI6ImJyaWptb2hhbi5kd2l3ZWRpQHB1YmxpY2lzc2FwaWVudC5jb20ifSwiYXBwS2V5Ijoic2tfMGQyMjgzMzE0MjRkNiIsImFwcElkIjoiNDEzNjQ0NzMtMTAwNi00ODAzLWJmNzUtMTAxZjUzMjNkY2IyIiwic2VydmljZXMiOlsibGxtIl0sImFwcE5hbWUiOiJzbGluZ3Nob3QiLCJpbmR1c3RyeSI6IjQ1M2Q5ZmFlLWY2M2MtNGU5NC04MjFlLTA3MmQ0NzQwODk2YSIsImlhdCI6MTc1MDgzMzM4MCwiZXhwIjoxNzUwODQ0MTgwfQ.lSuPD5uAYC5oNx728LHozfvHBa3a9JCVNtzUGwl8fwGdbfZlabzPKVi4YS-iU-qjZswvrhzk-3BBmKgzWlV36lzUBY3PDSCPEPootvBMSZPxDVi0wcy--9YCigecag1plnQ5vFYQcebtkhAozzlkup9IQlGsc1z-dGmF1JYrlciCQYZn_NKmKjEs11VcC7ONXIZhsGiHOfhYKVzVCHQeiPBU7shOrm7pVM6XLd0plfVPs36bv0zombkmRUABA5gS3o8Mv0eAJIROMl_HLB5cXHwR5evt6JW8xbLfv0p1mJVLqYOQZu05nB5v9r1lMUitZPwLXRp5NEGdxB0zoMyAGQ" />
+      </map>
+    </option>
+    <option name="refreshTokenMap">
+      <map>
+        <entry key="fraud-detection-service" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoicnQiLCJqdGkiOiJvWk9BUTNsdjFTIiwiVXNlckluZm8iOnsiaWQiOiIzNjE5OWVmZS04ZWNlLTQ0ODktYWRlNy1kNDc0ZGI3MGM1OTEiLCJlbWFpbCI6ImJyaWptb2hhbi5kd2l3ZWRpQHB1YmxpY2lzc2FwaWVudC5jb20ifSwiYXBwS2V5Ijoic2tfMGQyMjgzMzE0MjRkNiIsImFwcElkIjoiNDEzNjQ0NzMtMTAwNi00ODAzLWJmNzUtMTAxZjUzMjNkY2IyIiwic2VydmljZXMiOlsibGxtIl0sImFwcE5hbWUiOiJzbGluZ3Nob3QiLCJpbmR1c3RyeSI6IjQ1M2Q5ZmFlLWY2M2MtNGU5NC04MjFlLTA3MmQ0NzQwODk2YSIsImlhdCI6MTc1MDgzMzM4MCwiZXhwIjoxNzUxMDA2MTgwfQ.gFp-rC7-aq6yu1zCQvwEEqlAsx92ER0IPTSloZUvdmLicPQYX66AUFgIQpRXCqFJ5QccqPrZ_roBXvPTSwuB9nNzbMgotNb6i5xCX-in08-5Ij1ZUg1LpMk5tc7q7-X4ebITkpaHwUr1o0SplSXIr_jeTufGEN_1gLlsnwDq1oEAIDDLitW82lZ4upOCGXVTS47_y2iXPnlkThXuD6DFrlPkUG9DKqPPBko5dOMqi-2ULRPQ9nY6BTF5HjARogpWGsHq5QF0Mb-Bwkm_P7s2GWk-cy8Bd4oVTDQ8T9Boz5hj3GXWl9aAFQY_qkplOjs-fL277spGX8Y9Bs1sZmL8JQ" />
+      </map>
+    </option>
+    <option name="timeWhenAuthTokenWasLastUpdated">
+      <map>
+        <entry key="fraud-detection-service" value="1750833380822" />
+      </map>
+    </option>
+  </component>
+</project>

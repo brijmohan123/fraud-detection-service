@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FileNameToPathState">
+    <option name="fileNameToPathMap">
+      <map>
+        <entry key="fraud_detection_service/model/FraudRule.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/model/FraudRule.java" />
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/model/FraudRule.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/repository/FraudRuleRepository.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/repository/FraudRuleRepository.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/service/ExchangeRateService.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/service/ExchangeRateService.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/service/FraudDetectionService.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/service/FraudDetectionService.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/service/FraudDetectionServiceTest.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/service/UserBehaviorService.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/service/UserBehaviorService.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fraud_detection_service/utils/EncryptionUtil.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/utils/EncryptionUtil.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="main/resources/application.properties">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+              <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+            </list>
+          </value>
+        </entry>
+        <entry key="model/FraudRule.java Lines(4-4)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/model/FraudRule.java" />
+              <option value="$PROJECT_DIR$/src/main/java/com/uc4/fraud_detection_service/model/FraudRule.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pom.xml">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/pom.xml" />
+            </list>
+          </value>
+        </entry>
+        <entry key="service/FraudDetectionServiceIntegrationTest.java Lines(49-49)">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uca4/fraud_detection_service/service/FraudDetectionServiceIntegrationTest.java" />
+            </list>
+          </value>
+        </entry>
+        <entry key="uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+              <option value="$PROJECT_DIR$/src/test/java/com/uc4/fraud_detection_service/FraudDetectionServiceApplicationTests.java" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
